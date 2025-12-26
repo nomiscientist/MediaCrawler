@@ -120,7 +120,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -179,3 +178,4 @@ agent_zone
 debug_tools
 
 database/*.db
+config.bat
